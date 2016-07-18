@@ -1,4 +1,4 @@
-# Table -Sorter
+# Table Sorter
 JavaScript Table Sorting
 
 # How to install
